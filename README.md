@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Deep Learning Related Project**
 
-- 💬 Ask me about **SQL Development,DBA, Data Science**
+- 💬 Ask me about **SQL Developer,SQL Server DBA,ETL, Data Science**
 
 - 📫 How to reach me **sagarphuyal44@gmail.com**
 
